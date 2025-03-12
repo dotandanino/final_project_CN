@@ -25,7 +25,7 @@
      1. 1 if you want to check the model accuracy
      2. 2 if you want to run the model with the bonus pcap
      3. 3 if you want to run the model with your own pcap
-   - if you choose to upload your own pcap you should upload it as pcapng file
+   - if you choose to upload your own pcap you should upload it as pcapng file and he should be in thw src folder
 ---
 # important links
    - our pcap:
